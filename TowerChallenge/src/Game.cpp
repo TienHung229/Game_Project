@@ -26,7 +26,7 @@ const int WINDOW_HEIGHT = 600;
 const char* WINDOW_TITLE = "Tower Challenge";
 
 
-const int MAX_SPEED = 65;          
+const int MAX_SPEED = 200;          
 const int INITIAL_TILE_WIDTH = 200;
 const int TILE_HEIGHT = 40;
 const int INITIAL_SPEED = 200;
